@@ -1,4 +1,4 @@
-module github.com/davidrjonas/semver-cli
+module github.com/fmeyer/semver-cli
 
 go 1.14
 
